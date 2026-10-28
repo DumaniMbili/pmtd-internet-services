@@ -1,16 +1,77 @@
-# React + Vite
+# PMTD Internet Services
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive website redesign for PMTD Internet Services, a local business providing internet access, document creation, printing, and lamination services in Hibberdene, KwaZulu-Natal, South Africa.
 
-Currently, two official plugins are available:
+The project focuses on creating a professional online presence that makes it easy for customers to explore services, view starting prices, and find contact information.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- **Responsive design** — layouts adapted for desktop and mobile devices.
+- **Service pricing** — clear presentation of available services and prices.
+- **About Us** — introduces the business and its services.
+- **Contact information** — store address, telephone number, email, and Instagram.
+- **Business hours** — displays opening hours and closing days.
+- **Quick navigation** — links to key sections of the website.
+- **Consistent branding** — PMTD colours, logo assets, and reusable styling.
+- **Interactive elements** — clickable contact actions, navigation links, and hover effects.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technology Stack
 
-## Expanding the ESLint configuration
+- React
+- JavaScript
+- Vite
+- CSS
+- Lucide React — icons
+- Git and GitHub — version control
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Getting Started
+
+### Prerequisites
+
+Make sure you have Node.js and npm installed.
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/DumaniMbili/pmtd-internet-services.git
+   ```
+
+2. Navigate into the project directory:
+
+   ```bash
+   cd pmtd-internet-services
+   ```
+
+3. Install the project dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL displayed in your terminal.
+
+## Development
+
+The website is being developed incrementally, with an emphasis on responsive layouts, usability, consistent visual design, and understanding the tools and technologies used.
+
+## Project Status
+
+**Active development — redesign in progress.**
+
+The current version focuses on the core business website, including services and pricing, business information, contact details, and mobile responsiveness. Future improvements may include further visual refinements and additional functionality as requirements evolve.
+
+## Repository
+
+[View the project on GitHub](https://github.com/DumaniMbili/pmtd-internet-services)
+
+## Author
+
+**Dumani Mbili**
