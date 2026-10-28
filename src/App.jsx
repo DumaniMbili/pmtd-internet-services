@@ -45,6 +45,9 @@ function App() {
           <p>
             Your trusted partner for internet, printing, and computer services.
           </p>
+          <a href="#about" className="hero-button">
+            Learn More About Us
+          </a>
         </div>
       </section>
 
